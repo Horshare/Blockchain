@@ -96,7 +96,7 @@ async function main() {
    *  - ou API controlada pelo backend
    */
   const tokenURI =
-    "ipfs://QmBRUNA_DO_MUIRAQUITA_METADATA_EXEMPLO";
+    "https://brown-actual-fly-785.mypinata.cloud/ipfs/bafkreigss4sqgz6lefvcvs6kvju27xqzwqtytaoifu74facegdbffewo3y";
 
   /**
    * =========================
