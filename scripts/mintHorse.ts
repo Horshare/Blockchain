@@ -25,7 +25,7 @@ async function main() {
    */
 
   // PK do cavalo no seu banco (exemplo)
-  const dbHorseId = 1;
+  const dbHorseId = 2;
 
   // Microchip (NUNCA vai em claro on-chain)
   const microchip = "982000362646702";

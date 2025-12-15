@@ -1,0 +1,14 @@
+{
+  "name": "Bruna do Muiraquitã",
+  "description": "Égua Campolina registrada (06/027361)",
+  "image": "ipfs://bafkreiex3z7hfkdtgpoj4yu2srj5yjtwkzzvyr2xeni57xrkvwy47q6h7e",
+  "attributes": [
+    {"trait_type":"Registro","value":"06/027361"},
+    {"trait_type":"Microchip","value":"982000362646702"},
+    {"trait_type":"Sexo","value":"Fêmea"},
+    {"trait_type":"Nascimento","value":"2014-10-31"},
+    {"trait_type":"Pelagem","value":"Lobuna"},
+    {"trait_type":"Haras","value":"Sítio Muiraquitã"},
+    {"trait_type":"Cidade","value":"Nepomuceno - MG"}
+  ]
+}
